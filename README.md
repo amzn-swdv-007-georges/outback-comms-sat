@@ -102,7 +102,7 @@ Work **only** inside your assigned team directory.
 
 ## Git Workflow
 
-Before editing your file, synchronize your local repository.
+Before editing your file, synchronize your local repository with the remote repository.
 
 ```bash
 git pull
